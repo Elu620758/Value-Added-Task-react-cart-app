@@ -1,8 +1,6 @@
-
 import "./App.css";
 import { CartProvider } from "./components/CartContext";
-import Route from './components/routes'
-
+import Route from './components/routes';
 function App() {
   return (
     <div className="App">
